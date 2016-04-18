@@ -17,7 +17,7 @@ module.exports = {
         // do not look in these folders
         exclude: /(node_modules|bower_components)/,
         loader: 'babel-loader',
-        // syntastic sugar for -----v
+        // syntactic sugar for -----v
         query: {
           presets: ['es2015']
         }
