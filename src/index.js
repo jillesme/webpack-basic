@@ -1,2 +1,3 @@
 // webpack :D
-console.log('Webpack!');
+let message = 'webpack';
+console.log(message);
